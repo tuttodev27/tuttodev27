@@ -69,6 +69,8 @@ Domain-Driven Design (DDD), and cloud-native practices.
 <hr>
 
 
+<hr>
+
 <h2>🚀 Featured Projects</h2>
 
 <h3>🔹 Hexagonal Users API</h3>
@@ -102,6 +104,7 @@ Microservices-based Applicant Tracking System (SaaS vision).
 Focused on domain separation, scalability, and clean architectural design.
 </p>
 <p>
-Tech: Java, S
+Tech: Java, Spring Boot, Microservices Architecture, JWT, Docker
+</p>
 
 
