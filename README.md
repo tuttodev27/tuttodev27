@@ -69,42 +69,50 @@ Domain-Driven Design (DDD), and cloud-native practices.
 <hr>
 
 
-<hr>
-
 <h2>🚀 Featured Projects</h2>
+
+<h3>🌐 Personal Portfolio</h3>
+<p>
+Modern portfolio highlighting my expertise in Java microservices,
+Clean Architecture, and high-criticality financial systems.
+</p>
+<p>
+Tech: React, TypeScript, Vite
+</p>
+<p>
+🔗 <a href="https://porfolio-pablo.netlify.app/" target="_blank">
+View Live Portfolio
+</a>
+</p>
+
+<hr>
 
 <h3>🔹 Hexagonal Users API</h3>
 <p>
-REST API built with Spring Boot following Hexagonal Architecture and Domain-Driven Design (DDD) principles.
-Designed with separation of concerns, clean structure, and high unit test coverage.
+REST API built with Spring Boot following Hexagonal Architecture and
+Domain-Driven Design (DDD) principles.
+Designed with clear separation of concerns and strong unit test coverage.
 </p>
 <p>
 Tech: Java, Spring Boot, JPA, Docker, JUnit, Mockito
 </p>
 <p>
-🔗 <a href="https://github.com/tuttodev27/hexagonal-users" target="_blank">View Repository</a>
-</p>
-
-<hr>
-
-<h3>🔹 Rick and Morty Microservice</h3>
-<p>
-Microservice that consumes an external API and transforms the response into a custom JSON schema.
-Built using Clean Architecture and SOLID principles.
-</p>
-<p>
-Tech: Java, Spring Boot, REST Client, DTO Mapping
+🔗 <a href="https://github.com/tuttodev27/hexagonal-users" target="_blank">
+View Repository
+</a>
 </p>
 
 <hr>
 
 <h3>🔹 ATS Microservices (In Progress)</h3>
 <p>
-Microservices-based Applicant Tracking System (SaaS vision).
+Microservices-based Applicant Tracking System with SaaS vision.
 Focused on domain separation, scalability, and clean architectural design.
+Currently under active development.
 </p>
 <p>
-Tech: Java, Spring Boot, Microservices Architecture, JWT, Docker
+Tech: Java, Spring Boot, JWT, Docker
 </p>
+
 
 
