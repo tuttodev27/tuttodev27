@@ -21,8 +21,6 @@ and domain-driven design (DDD) principles.
 
 <h2>🛠 Tech Stack</h2>
 
-<h2>🛠 Tech Stack</h2>
-
 <p>
   <!-- Core Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
