@@ -68,8 +68,40 @@ Domain-Driven Design (DDD), and cloud-native practices.
 
 <hr>
 
-<h2>🌍 Location</h2>
+
+<h2>🚀 Featured Projects</h2>
+
+<h3>🔹 Hexagonal Users API</h3>
 <p>
-📍 Santiago, Chile <br>
-🌍 Open to remote opportunities
+REST API built with Spring Boot following Hexagonal Architecture and Domain-Driven Design (DDD) principles.
+Designed with separation of concerns, clean structure, and high unit test coverage.
 </p>
+<p>
+Tech: Java, Spring Boot, JPA, Docker, JUnit, Mockito
+</p>
+<p>
+🔗 <a href="https://github.com/tuttodev27/hexagonal-users" target="_blank">View Repository</a>
+</p>
+
+<hr>
+
+<h3>🔹 Rick and Morty Microservice</h3>
+<p>
+Microservice that consumes an external API and transforms the response into a custom JSON schema.
+Built using Clean Architecture and SOLID principles.
+</p>
+<p>
+Tech: Java, Spring Boot, REST Client, DTO Mapping
+</p>
+
+<hr>
+
+<h3>🔹 ATS Microservices (In Progress)</h3>
+<p>
+Microservices-based Applicant Tracking System (SaaS vision).
+Focused on domain separation, scalability, and clean architectural design.
+</p>
+<p>
+Tech: Java, S
+
+
