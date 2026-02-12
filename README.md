@@ -1,8 +1,14 @@
 <h1>👋 Hi, I'm Pablo Gallegos</h1>
 
-<h3>Senior Backend Java Engineer | Microservices Architecture | Financial Systems</h3>
+<p>
+  <a href="https://www.linkedin.com/in/pablo-alexis-gallegos-celis/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+    LinkedIn
+  </a>
+</p>
 
-<hr>
+<h3>Senior Backend Java Engineer | Microservices & Cloud Architecture | Financial Systems</h3>
+
 
 <h2>🚀 About Me</h2>
 
