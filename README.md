@@ -109,15 +109,19 @@ View Repository
 Microservices-based Applicant Tracking System with SaaS vision.
 Focused on domain separation, scalability, and clean architectural design.
 Currently under active development.
-ATS-MODULES
-  ATS-USER
-  ATS-CANDIDATES
-  ATS-REQUEST
-  ATS-COLLABORATOR
-  ATS-NOTIFICATION
 </p>
+  <strong>ATS-MODULES</strong>
+  <ul>
+    <li><strong>ATS-User</strong> Authentication, roles and access control (JWT, Spring Security)</li>
+    <li><strong>ATS-Candidates</strong> Candidate management and profile data</li>
+    <li><strong>ATS-Request</strong> Job request and recluitment workflow</li>
+    <li><strong>ATS-Collaborator</strong> Employee management and internal data</li>
+    <li><strong>ATS-Notification </strong>Event-driven notifications (Kafka-planned)</li>
+  </ul>
+  
+
 <p>
-Tech: Java, Spring Boot, JWT, Docker
+<strong>Architecture:</strong> Hexagonal Architecture, Domain-Driven Design (DDD), Event-Driven (Kafka - planned)
 </p>
 
 
