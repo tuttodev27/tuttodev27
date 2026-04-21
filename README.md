@@ -109,6 +109,12 @@ View Repository
 Microservices-based Applicant Tracking System with SaaS vision.
 Focused on domain separation, scalability, and clean architectural design.
 Currently under active development.
+ATS-MODULES
+  ATS-USER
+  ATS-CANDIDATES
+  ATS-REQUEST
+  ATS-COLLABORATOR
+  ATS-NOTIFICATION
 </p>
 <p>
 Tech: Java, Spring Boot, JWT, Docker
