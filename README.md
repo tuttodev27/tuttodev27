@@ -7,21 +7,26 @@
   </a>
 </p>
 
-<h3>Senior Backend Java Engineer | Microservices & Cloud Architecture | Financial Systems</h3>
+<h3>Senior Backend Java Engineer | Microservices | Cloud Architecture | Financial Systems</h3>
+
+<p>
+<strong>Open to opportunities:</strong> Backend Java | Software Architect | Cloud & Distributed Systems
+</p>
 
 <hr>
 
 <h2>🚀 About Me</h2>
 
 <p>
-Senior Backend Java Engineer with over 10 years of experience in the IT industry.
-For the past 8 years, I have focused on designing and developing Java-based microservices architectures,
-primarily within high-criticality financial systems.
+Senior Backend Java Engineer with 10+ years of experience in software development and 8+ years specializing in Java and microservices architectures, primarily within high-criticality financial systems.
 </p>
 
 <p>
-I specialize in building scalable, resilient, and maintainable systems using Clean Architecture,
-Domain-Driven Design (DDD), and cloud-native practices.
+I focus on designing scalable, resilient, and maintainable systems using Clean Architecture, Domain-Driven Design (DDD), and cloud-native practices.
+</p>
+
+<p>
+I enjoy solving complex backend problems, optimizing performance, and building systems that operate reliably under high load.
 </p>
 
 <hr>
@@ -30,7 +35,7 @@ Domain-Driven Design (DDD), and cloud-native practices.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Ecosystem"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot / Spring Framework"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka"/>
@@ -68,7 +73,6 @@ Domain-Driven Design (DDD), and cloud-native practices.
 
 <hr>
 
-
 <h2>🚀 Featured Projects</h2>
 
 <h3>🌐 Personal Portfolio</h3>
@@ -77,7 +81,7 @@ Modern portfolio highlighting my expertise in Java microservices,
 Clean Architecture, and high-criticality financial systems.
 </p>
 <p>
-Tech: React, TypeScript, Vite
+<strong>Tech:</strong> React, TypeScript, Vite
 </p>
 <p>
 🔗 <a href="https://porfolio-pablo.netlify.app/" target="_blank">
@@ -90,11 +94,11 @@ View Live Portfolio
 <h3>🔹 Hexagonal Users API</h3>
 <p>
 REST API built with Spring Boot following Hexagonal Architecture and
-Domain-Driven Design (DDD) principles.
+Domain-Driven Design (DDD).
 Designed with clear separation of concerns and strong unit test coverage.
 </p>
 <p>
-Tech: Java, Spring Boot, JPA, Docker, JUnit, Mockito
+<strong>Tech:</strong> Java, Spring Boot, JPA, Docker, JUnit, Mockito
 </p>
 <p>
 🔗 <a href="https://github.com/tuttodev27/hexagonal-users" target="_blank">
@@ -105,24 +109,29 @@ View Repository
 <hr>
 
 <h3>🔹 ATS Microservices (In Progress)</h3>
+
 <p>
-Microservices-based Applicant Tracking System with SaaS vision.
-Focused on domain separation, scalability, and clean architectural design.
-Currently under active development.
+Microservices-based Applicant Tracking System designed as a scalable SaaS platform.
+Focused on domain separation, clean architecture, and modular growth.
 </p>
-  <strong>ATS-MODULES</strong>
-  <ul>
-    <li><strong>ATS-User</strong> Authentication, roles and access control (JWT, Spring Security)</li>
-    <li><strong>ATS-Candidates</strong> Candidate management and profile data</li>
-    <li><strong>ATS-Request</strong> Job request and recluitment workflow</li>
-    <li><strong>ATS-Collaborator</strong> Employee management and internal data</li>
-    <li><strong>ATS-Notification </strong>Event-driven notifications (Kafka-planned)</li>
-  </ul>
-  
+
+<p>
+Designed to scale as a modular SaaS platform for recruitment management and enterprise hiring processes.
+</p>
+
+<strong>Modules:</strong>
+<ul>
+  <li><strong>ATS-User</strong> → Authentication, roles and access control (JWT, Spring Security)</li>
+  <li><strong>ATS-Candidate</strong> → Candidate management and profile data</li>
+  <li><strong>ATS-Request</strong> → Job request and recruitment workflow</li>
+  <li><strong>ATS-Collaborator</strong> → Employee management and internal data</li>
+  <li><strong>ATS-Notification</strong> → Event-driven notifications (Kafka - planned)</li>
+</ul>
+
+<p>
+<strong>Tech:</strong> Java, Spring Boot, JWT, Docker
+</p>
 
 <p>
 <strong>Architecture:</strong> Hexagonal Architecture, Domain-Driven Design (DDD), Event-Driven (Kafka - planned)
 </p>
-
-
-
